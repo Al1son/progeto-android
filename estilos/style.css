@@ -137,10 +137,18 @@ main > img{
 
 
 main > img.pequena{
-    max-width: 290px;
+    max-width: 280px;
     display: block;
     margin: auto;
 }
+
+main > picture > source.celular{
+
+    max-width: 280px;
+    margin: auto;
+    display: block;
+    position: absolute;
+} 
 
 main > h1{
     color: var(--cor5);
