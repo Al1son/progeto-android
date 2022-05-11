@@ -135,8 +135,12 @@ main > img{
     width: 100%;
 }
 
+main .celular{ 
+    max-width: 350px;
+}
+
 main > img.pequena{
-    max-width: 300px;
+    max-width: 290px;
     display: block;
     margin: auto;
 }
